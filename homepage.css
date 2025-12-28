@@ -5,7 +5,7 @@ body{
     position: relative;
     margin: 0;
     padding: 0;
-    background-image: url("background1.jpg");
+    background-image: url("background1.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -164,4 +164,5 @@ button{
         font-size: 16px;
         margin: 20px auto;
     }
+
 }
