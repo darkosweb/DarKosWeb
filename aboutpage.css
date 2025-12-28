@@ -4,7 +4,7 @@ body{
     position: relative;
     margin: 0;
     padding: 0;
-    background-image: url("background3.jpg");
+    background-image: url("background3.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -143,4 +143,5 @@ p{
         padding: 0 20px;
         line-height: 1.6;
     }
+
 }
