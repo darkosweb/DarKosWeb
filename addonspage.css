@@ -4,7 +4,7 @@ body{
     position: relative;
     margin: 0;
     padding: 0;
-    background-image: url("background2.jpg");
+    background-image: url("background2.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -231,4 +231,5 @@ button{
     }
 
 }
+
 
