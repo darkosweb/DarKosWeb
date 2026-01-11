@@ -118,8 +118,16 @@ p{
     margin-bottom: 25px;
 }
 
-ul{
+.starterul{
     margin-bottom: 30px;
+}
+
+.proul{
+    margin-bottom: 20px;
+}
+
+.eliteul{
+    margin-bottom: 10px;
 }
 
 li{
